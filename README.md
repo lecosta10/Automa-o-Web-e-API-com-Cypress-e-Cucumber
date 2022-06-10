@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Cucumber](https://reactnative.dev/)
 
 
-Para configurar o ambiente temos que cumprir as etapas:
+Para configurar o ambiente temos que seguir as seguintes etapas:
 
 1. Instalar Node.js: acesse o site oficial, baixe e instale a versão para seu computador.
 
